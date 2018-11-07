@@ -1,7 +1,9 @@
 # Lescone
-Projeto Le Scone
 
 ## Descrição
+Projeto Le Scone desenvolvido usando a ferramenta Gulp e SASS
 
-# Objetivo
-Melhorar meus conheci
+## Objetivo
+Melhorar meus conhecimentos e habilidades com Gulp e SASS
+
+## URL do site
