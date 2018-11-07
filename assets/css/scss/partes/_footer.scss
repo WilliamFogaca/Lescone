@@ -1,0 +1,23 @@
+footer {
+    padding: 20px 0;
+    background: $cinza;
+    @include box-shadow(0 0 0 10px $cinza);
+
+    p {
+        color: $bege-claro;
+        @include device(sm) {
+            text-align: center;
+        }
+    }
+
+    a img {
+        position: absolute;
+        bottom: 3px;
+        right: 0;
+        @include device(sm) {
+            float: none;
+            margin: 20px auto;
+            position: relative;
+        }
+    }
+}
